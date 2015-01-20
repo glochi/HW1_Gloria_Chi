@@ -1,8 +1,8 @@
 # HW1_gloria_chi
 HW1
 
-Reviewer:
+Reviewer: Marea Cobb
 
-Group:
+Group: 1
 
 The code presented here was written by Raphael Gottardo.
