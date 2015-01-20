@@ -4,3 +4,5 @@ HW1
 Reviewer:
 
 Group:
+
+The code presented here was written by Raphael Gottardo.
