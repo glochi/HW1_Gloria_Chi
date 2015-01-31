@@ -4,10 +4,13 @@ output: html_document
 ---
 
 ```{r}
-data(iris)
+
 library(ggplot2)
 library(reshape2)
+
+data(iris)
 head(iris)
+
 # Add a column for flower ID
 iris$flower_id <- rownames(iris)
 # Default options
